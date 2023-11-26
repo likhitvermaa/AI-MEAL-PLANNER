@@ -19,31 +19,6 @@ algorithm.
 - Pandas for data manipulation
 - Anthropic Claude API for NLP completions
 
-## Installation
-
-Clone the repository and install the dependencies using pipenv:
-
-```bash
-git clone
-cd ai-meal-planner
-pipenv install
-```
-
-## Usage
-
-Run the app using streamlit:
-
-```bash
-streamlit run streamlit_meal_planner.py
-```
-
-Add your API key to `.streamlit/secrets.toml`:
-
-```bash
-anthropic_apikey="YOUR_API_KEY"
-openai_apikey="YOUR_API_KEY"
-```
-
 
 ## Random greedy algorithm 
 
